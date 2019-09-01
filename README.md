@@ -51,18 +51,21 @@ Java Framework 전문가 양성과정(2017.01 ~ 06)
 ## 프로젝트 이력
 
 <img src='./images/dabang.png' width="80" />
+
 ### 다방
 - 소개: 대표 부동산 앱
 - 기간: 2018.01 ~ 현재
 - 관련기술: Swift5.0, MVVM, RxSwift, ReSwift
 
 <img src='./images/dabangOwner.png' width="80" />
+
 ### 다방 방주인
 - 소개: 부동산 공실관리 앱
 - 기간: 2018.09 ~ 현재 오픈 후 리뉴얼중
 - 관련기술: Swift4.3, MVVM, RxSwift, ReSwift
 
 <img src='./images/hjCulture.png' width="80" />
+
 ### HJ컬쳐
 - 소개: 공연 예약 앱
 - 기간: 2017.09 ~ 12
