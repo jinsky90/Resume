@@ -1,5 +1,4 @@
 # 이력서
----
 
 ## 소개
 ![프로필이미지](https://github.com/jinsky90/Resume/raw/master/images/profile.jpeg)
