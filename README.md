@@ -9,6 +9,8 @@
 - 이메일: [jinsky90@naver.com](jinsky90@naver.com)
 - 블로그: [https://jinsky90.github.io](https://jinsky90.github.io)
 
+빠르지 않은 나이지만 평생 하고싶은 것이 **개발**이라는 것을 알게되었고 
+매일 너무 즐겁게 살아가는 **비 전공 개발자 jinsky**입니다.
 **최신 개발 트랜드**에 맞는 기술을 공부하고 적용 해 보는것을 좋아합니다 :)
 
 ## 회사경력
