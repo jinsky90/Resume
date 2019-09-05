@@ -1,7 +1,8 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/jinsky90/Resume/raw/master/images/profile.jpeg)
+<img src='./images/profile.jpeg' width=50% />
+
 - 이름: 진하늘
 - 사는곳: 서울
 - 닉네임: jinsky
@@ -9,9 +10,13 @@
 - 이메일: [jinsky90@naver.com](jinsky90@naver.com)
 - 블로그: [https://jinsky90.github.io](https://jinsky90.github.io)
 
+</br>
+
 빠르지 않은 나이지만 평생 하고싶은 것이 **개발**이라는 것을 알게되었고 </br>
 매일 너무 즐겁게 살아가는 **비 전공 개발자 jinsky**입니다.</br>
 **최신 개발 트랜드**에 맞는 기술을 공부하고 적용 해 보는것을 좋아합니다 :)
+
+</br>
 
 ## 회사경력
 - [플랫폼로캣티어](https://www.rocateer.com)(2017.07 ~ 12)
@@ -52,30 +57,36 @@ Java Framework 전문가 양성과정(2017.01 ~ 06)
 - 다양한 방식의 이론, 설계, 구현에 대한 풍부한 토론 및 발표수업을 통해
 - 최근 IT기업에서 강조하는 커뮤니케이션 능력, 제안서 등 글쓰기 능력, 프리젠테이션 능력을 향상
 
-
+</br>
 
 ## 프로젝트 이력
 
-<img src='./images/dabang.png' width="80" />
+<a href="https://apps.apple.com/kr/app/다방-대한민국-부동산-매물-최다보유/id814840066"><img src='./images/dabang.png' width="80" /></a>
 
-### 다방
+### [다방](https://apps.apple.com/kr/app/다방-대한민국-부동산-매물-최다보유/id814840066)
 - 소개: 대표 부동산 앱
 - 기간: 2018.01 ~ 현재
 - 관련기술: Swift5.0, MVVM, RxSwift, ReSwift
 
-<img src='./images/dabangOwner.png' width="80" />
+</br>
 
-### 다방 방주인
+<a href="https://apps.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281"><img src='./images/dabangOwner.png' width="80" /></a>
+
+### [다방 방주인](https://apps.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281)
 - 소개: 부동산 공실관리 앱
 - 기간: 2018.09 ~ 현재 오픈 후 리뉴얼중
 - 관련기술: Swift4.3, MVVM, RxSwift, ReSwift
 
-<img src='./images/hjCulture.png' width="80" />
+</br>
 
-### HJ컬쳐
+<a href="https://apps.apple.com/kr/app/hj컬쳐-멤버십/id1300475256"><img src='./images/hjCulture.png' width="80" /></a>
+
+### [HJ컬쳐](https://apps.apple.com/kr/app/hj컬쳐-멤버십/id1300475256)
 - 소개: 공연 예약 앱
 - 기간: 2017.09 ~ 12
 - 관련기술: Swift2.3, MVC
+
+</br>
 
 ### 연애가이드(미출시)
 - 소개: 숙박업소 예약 앱
