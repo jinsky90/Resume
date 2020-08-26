@@ -19,8 +19,10 @@
 </br>
 
 ## 회사경력
+- [레이니스트](https://banksalad.com)(2020.01 ~ ing)
+- [스테이션3](https://www.station3.co.kr)(2018.01 ~ 2019.11)
 - [플랫폼로캣티어](https://www.rocateer.com)(2017.07 ~ 12)
-- [스테이션3](https://www.station3.co.kr)(2018.01 ~ 11)
+
 
 ## 학력
 - 육민관고등학교 졸업(2005 ~ 2008)
@@ -52,11 +54,20 @@
 
 ## 프로젝트 이력
 
+<a href="https://apps.apple.com/kr/app/뱅크샐러드/id1195804784"><img src='./images/banksalad.png' width="80" /></a>
+
+### [뱅크샐러드](https://apps.apple.com/kr/app/뱅크샐러드/id1195804784)
+- 소개: 대표 가계부, 자산 앱
+- 기간: 2020.01 ~ 현재 
+- 관련기술: Swift5.3, MVVM, RxSwift
+
+</br>
+
 <a href="https://apps.apple.com/kr/app/다방-대한민국-부동산-매물-최다보유/id814840066"><img src='./images/dabang.png' width="80" /></a>
 
 ### [다방](https://apps.apple.com/kr/app/다방-대한민국-부동산-매물-최다보유/id814840066)
 - 소개: 대표 부동산 앱
-- 기간: 2018.01 ~ 현재
+- 기간: 2018.01 ~ 2019.11
 - 관련기술: Swift5.0, MVVM, RxSwift, ReSwift
 
 </br>
@@ -65,7 +76,7 @@
 
 ### [다방 방주인](https://apps.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281)
 - 소개: 부동산 공실관리 앱
-- 기간: 2018.09 ~ 현재 오픈 후 리뉴얼중
+- 기간: 2018.09 ~ 2019.11
 - 관련기술: Swift4.3, MVVM, RxSwift, ReSwift
 
 </br>
