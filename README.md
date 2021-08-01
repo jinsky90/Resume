@@ -1,96 +1,102 @@
-# 이력서
-
-## 소개
-<img src='./images/profile.jpeg' width=50% />
-
-- 이름: 진하늘
-- 사는곳: 서울
-- 닉네임: jinsky
-- 취미: 달리기, 넷플릭스, 축구
-- 이메일: [jinsky90@naver.com](jinsky90@naver.com)
-- 블로그: [https://jinsky90.github.io](https://jinsky90.github.io)
-
-</br>
-
-빠르지 않은 나이지만 평생 하고싶은 것이 **개발**이라는 것을 알게되었고 </br>
-매일 너무 즐겁게 살아가는 **비 전공 개발자 jinsky**입니다.</br>
-**최신 개발 트랜드**에 맞는 기술을 공부하고 적용 해 보는것을 좋아합니다 :)
-
-</br>
-
-## 회사경력
-- [레이니스트](https://banksalad.com)(2020.01 ~ ing)
-- [스테이션3](https://www.station3.co.kr)(2018.01 ~ 2019.11)
-- [플랫폼로캣티어](https://www.rocateer.com)(2017.07 ~ 12)
+# let developer = 진하늘(type: .📱)
 
 
-## 학력
-- 육민관고등학교 졸업(2005 ~ 2008)
-- 평생교육진흥원 경영학부 졸업(2014 ~ 2015)
-- 평생교육진흥원 경영학과(2018 ~ 재학중)
+### Introduction
 
-## 주요 사용기술
+- 2017년부터 iOS개발을 해 온 진하늘입니다🙋🏻‍♂️
+- 🚴🏻‍♂️, 🏃‍♂️을 하면서 적절히 환기시키는 것을 좋아합니다.
+- `목표`/`목표가 아닌것` 을 분류하고 선택과 집중하는 것을 선호합니다.
+- `투명한 커뮤니케이션`을 선호합니다.
+- `사용자관점`에서 생각하며 앱을 개발합니다.
+
+### Contact & Channel
+
+💻: [https://github.com/jinsky90](https://github.com/jinsky90)
+
+💌: wlsgksmf456@naver.com
+
+📞: 010-2954-3982
+<br/><br/><br/>
+
+# Skills🛠
 
 ### iOS
-- Swift
-- RxSwift
-- MVC, MVVM Pattern
-- ReactorKit
+
+`Swift` `RxSwift` `MVVM` `MVC`
 
 ### Process
-- 모니터링 - Fabric / Google Analytics
-- 커뮤니케이션 - Slack
-- 이슈관리 - jira / Trello
-- 버전관리 - Git(GitKraken / SourceTree)
 
-### Server
-- node.js
-- Spring
+`Slack` `Jira` `Git` `GoogleDocs` `Zeplin` `Figma`
 
-## 해외경험
-- 일본 워킹홀리데이(2015.08 ~ 2016.02)
+<br/><br/>
 
-</br>
+# Work Experience & Projects🧑🏻‍💻
 
-## 프로젝트 이력
+<img width="865" alt="image" src="https://user-images.githubusercontent.com/38024119/127767966-b17ed866-8ec3-4201-a67e-16566b834a8e.png">
 
-<a href="https://apps.apple.com/kr/app/뱅크샐러드/id1195804784"><img src='./images/banksalad.png' width="80" /></a>
+### 뱅크샐러드 건강👨🏻‍⚕️
 
-### [뱅크샐러드](https://apps.apple.com/kr/app/뱅크샐러드/id1195804784)
-- 소개: 대표 가계부, 자산 앱
-- 기간: 2020.01 ~ 현재 
-- 관련기술: Swift5.3, MVVM, RxSwift
+2021.04 ~ 현재
 
-</br>
+`건강관리`도 뱅크샐러드에서
 
-<a href="https://apps.apple.com/kr/app/다방-대한민국-부동산-매물-최다보유/id814840066"><img src='./images/dabang.png' width="80" /></a>
+- 건강 모듈화
+- 서버스크래핑 기반 **예방접종도우미** 회원가입 flow 제공
+- `HealthKit`을 사용하여 걸음수, 걸은거리, 수면 데이터 통계 제공
+- `A/B테스트` `사용성개선` `아이디에이션` 제시 및 개발
 
-### [다방](https://apps.apple.com/kr/app/다방-대한민국-부동산-매물-최다보유/id814840066)
-- 소개: 대표 부동산 앱
-- 기간: 2018.01 ~ 2019.11
-- 관련기술: Swift5.0, MVVM, RxSwift, ReSwift
+### 뱅크샐러드 송금💰
 
-</br>
+2020.04 ~ 2021.03
 
-<a href="https://apps.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281"><img src='./images/dabangOwner.png' width="80" /></a>
+`송금`도 뱅크샐러드에서
 
-### [다방 방주인](https://apps.apple.com/kr/app/방주인-스마트한-공실-관리/id1438069281)
-- 소개: 부동산 공실관리 앱
-- 기간: 2018.09 ~ 2019.11
-- 관련기술: Swift4.3, MVVM, RxSwift, ReSwift
+- 송금 모듈화진행 및 모듈화 BestPractice iOS팀내 공유
+- TechSpec 작성을 통한 Task나열 및 jira티켓팅, 신뢰 가능한 일정산정
+- 호흡이 긴 Feature에 대한 코드리뷰 blocking이 없도록 PR기차 전략 수립
+- `Google Protobuf - IDL`을 사용한 뱅크샐러드 첫 feature, 실제 구현하며 생긴 issue해결 및 코드구조화
+- `E2E` `HandShake` `RSA` `Hash` 등 단방향 & 양방향 암호화를 통한 **클라이언트 ↔ 서버**간 안전한 송금 서비스 구축 및 송금스쿼드 내 암호화 도메인 전파
+- 금결원 전자금융업 라이센스 사수를 위한 최소 송금버전 개발 및 내부배포
+- 내 계좌간 송금 서비스 개발 및 배포
+- 타인송금 서비스 개발 및 배포
+- 충전 서비스 개발 및 배포
+- `A/B테스트` 아이디에이션 및 개발
 
-</br>
+### 뱅크샐러드 iOS Foundation🤝
 
-<a href="https://apps.apple.com/kr/app/hj컬쳐-멤버십/id1300475256"><img src='./images/hjCulture.png' width="80" /></a>
+2020.01 ~ 2021.03
 
-### [HJ컬쳐](https://apps.apple.com/kr/app/hj컬쳐-멤버십/id1300475256)
-- 소개: 공연 예약 앱
-- 기간: 2017.09 ~ 12
-- 관련기술: Swift2.3, MVC
+- 공통 로직 개선 제안 및 수정
+- 백로그(사용성이슈) 27개 fix
+- Tech조직 세미나 발표
 
-</br>
+<br/>
 
-### 연애가이드(미출시)
-- 소개: 숙박업소 예약 앱
-- 기간: 2017/07 ~ 2017.09
-- 관련기술: Swift2.3, MVC
+### 다방 방주인
+
+2019.09 ~ 2019.12
+
+개인매물 등록도 이제 `다방 방주인`에서
+
+- `공실등록` `회원가입` `튜토리얼` `공실목록` `공실상세 페이지 UI구성`, `API연동` `데이터 로직 구현` `푸쉬로직 구성` `외부링크 및 앱스키마 작업`등 전체 작업을 오너십을 가지고 진행하였고 성공적으로 배포
+
+### 다방
+
+2018.01 ~ 2019.08
+
+그어떤 방도 다있다 `다방`
+
+- 분양탭 개발 및 배포
+- 매물 시세기능 추가
+- 단지상세, 매물상세 리뉴얼
+- 카카오뱅크 전세대출 로직 구성
+- 메모리누수 이슈 해결 및 앱 안정화
+
+<br/>
+
+### 플랫폼 로캣티어
+
+2017.07 ~ 2017.08
+
+- 숙박시설 예약 앱 `연애가이드` 리뉴얼 개발(미출시)
+- 공연예약 앱 `HJ컬쳐` 개발 및 배포
