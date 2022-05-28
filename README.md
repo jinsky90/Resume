@@ -51,8 +51,12 @@
 - 기존에 복잡하게 되어있던 `Deeplink` 구조의 문제점 도출 및 재설계 & 리팩토링
 - 자산홈 알림배너 서버화 작업 개발참여
 - 뱅크샐러드 유튜브 컨텐츠 제작참여
-[https://www.youtube.com/watch?v=lRr7OWIC4AE&t=74s](https://i.ytimg.com/vi/lRr7OWIC4AE/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATaGto6XiJnh1IIXuM-6R3ki5Dpw)(https://www.youtube.com/watch?v=lRr7OWIC4AE&t=74s)
 
+[![유전자컨텐츠1](https://i.ytimg.com/vi/lRr7OWIC4AE/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATaGto6XiJnh1IIXuM-6R3ki5Dpw)](https://www.youtube.com/watch?v=lRr7OWIC4AE&t)
+
+[![유전자컨텐츠2](https://i.ytimg.com/vi/Upkfx4IiG5Q/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCW37L5R4n4-fMsx6i1NoovfpOljA)](https://www.youtube.com/watch?v=Upkfx4IiG5Q&t)
+
+[![CTO무물](https://i.ytimg.com/vi/kL2FKnmmMao/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfCBn9fLOqsC38bkzpkcKqmNshlw)](https://www.youtube.com/watch?v=kL2FKnmmMao&t)
 
 ### 뱅크샐러드 송금💰
 
