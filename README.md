@@ -51,7 +51,7 @@
 - 기존에 복잡하게 되어있던 `Deeplink` 구조의 문제점 도출 및 재설계 & 리팩토링
 - 자산홈 알림배너 서버화 작업 개발참여
 - 뱅크샐러드 유튜브 컨텐츠 제작참여
-[https://www.youtube.com/watch?v=lRr7OWIC4AE&t=74s](https://www.youtube.com/watch?v=lRr7OWIC4AE&t=74s)
+[https://www.youtube.com/watch?v=lRr7OWIC4AE&t=74s](https://i.ytimg.com/vi/lRr7OWIC4AE/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATaGto6XiJnh1IIXuM-6R3ki5Dpw)(https://www.youtube.com/watch?v=lRr7OWIC4AE&t=74s)
 
 
 ### 뱅크샐러드 송금💰
