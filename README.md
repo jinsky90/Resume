@@ -14,8 +14,6 @@
 💻: [https://github.com/jinsky90](https://github.com/jinsky90)
 
 💌: wlsgksmf456@naver.com
-
-📞: 010-2954-3982
 <br/><br/><br/>
 
 # Skills🛠
