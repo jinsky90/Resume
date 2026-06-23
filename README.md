@@ -1,47 +1,71 @@
-# let developer = 진하늘(type: .📱)
-
+# let developer = 진하늘(type: .📱 → .🖥️)
 
 ### Introduction
 
-- 2017년부터 iOS개발을 해 온 진하늘입니다🙋🏻‍♂️
+- 2017년부터 iOS개발을 시작해, 현재는 `Go` 기반 서버까지 담당하는 풀스택 엔지니어 진하늘입니다🙋🏻‍♂️
+- 클라이언트\~서버\~인프라를 넘나들며 `보험 도메인`을 오너십으로 리드합니다.
 - 🚴🏻‍♂️, 🏃‍♂️ 🏊‍♂️을 하면서 적절히 환기시키는 것을 좋아합니다.
 - `목표`/`목표가 아닌것` 을 분류하고 선택과 집중하는 것을 선호합니다.
 - `투명한 커뮤니케이션`을 선호합니다.
 - `사용자관점`에서 생각하며 앱을 개발합니다.
 
+
 ### Contact & Channel
 
-💻: [https://github.com/jinsky90](https://github.com/jinsky90)
+💻: <https://github.com/jinsky90>
 
-💌: wlsgksmf456@naver.com
-<br/><br/><br/>
+💌: <wlsgksmf456@naver.com>
+
+
+
 
 # Skills🛠
 
 ### iOS
 
-`Swift` `RxSwift` `MVVM` `MVC`
+`Swift` `RxSwift` `MVVM` `MVC` `HealthKit` `ARKit` `CoreMotion`
+
+### Backend
+
+`Go` `gRPC / Protobuf (IDL)` `CDP` `KVS` `Snowflake` `IaC` `AWS Graviton` `Cron / Batch`
 
 ### Process
 
-`Slack` `Jira` `Git` `GoogleDocs` `Zeplin` `Figma`
+`Slack` `Jira` `Git` `GoogleDocs` `Zeplin` `Figma` `FigJam`
 
-<br/><br/>
+
+
+
 
 # Work Experience & Projects🧑🏻‍💻
 
-<img width="865" alt="image" src="https://user-images.githubusercontent.com/38024119/127767966-b17ed866-8ec3-4201-a67e-16566b834a8e.png">
+[![image](https://user-images.githubusercontent.com/38024119/127767966-b17ed866-8ec3-4201-a67e-16566b834a8e.png)](https://user-images.githubusercontent.com/38024119/127767966-b17ed866-8ec3-4201-a67e-16566b834a8e.png)
 
-### 뱅크샐러드 건강👨🏻‍⚕️
+### 뱅크샐러드 건강/보험👨🏻‍⚕️
 
 2021.04 ~ 현재
 
-`건강관리`도 뱅크샐러드에서
+`건강관리`도 뱅크샐러드에서 — iOS 개발자에서 출발해 `Go` 기반 서버까지 담당하는 풀스택 엔지니어로 성장하며 보험 도메인을 리드
+
+**Server / Backend**
+
+- **보험진단** 서비스 전체 구축 — 질병별/상황별 보험금, 병원비, 부족한 보장기간, 3대질환, 과거력 등 섹션 개발
+- **보험료 줄이기** 솔루션 개발 — 중복 실손 정리, 갱신형 갈아타기, 납입기간 줄이기, 실속없는 보장 없애기, 건강체/실비 할인제도
+- **5세대 실손(실비) 출시** 대응 — CDP·홈 순자산섹션·이벤트 로직·인상률 반영
+- **업체할당(GA)** 로직 — 가용성 조회·큐 적재 API, 동적 할당, 제휴 GA 인입 처리
+- **CDP(Customer Data Platform)** 기반 카카오 알림톡 마케팅 자동화 — 발송 시나리오·우선순위·중복 제외 로직 및 cron job 운영
+- `gRPC` / `Protobuf(IDL)` 기반 보험 API 다수 설계·개발 (보험금 분석, 상담 flow, 상담사 웹뷰 등)
+- 보험 백오피스(어드민) 개발 — DB 필터, 자보 파기건수 조회 등
+- `IaC(yaml)` 구성, AWS `Graviton` 노드 이관, 캐시 메모리 효율화, `Snowflake` 데이터 활용
+- 미생물검사 서비스 개발 및 운영 (신청\~결과 키트 flow, 크론잡, 모킹서버), 판매리스트(스폰서십) 개발·운영
+
+**iOS**
 
 - 건강 모듈화진행
 - 서버스크래핑 기반 **예방접종도우미** 회원가입 flow 제공
-- 서버스크래핑 기반 **건강검진** 회원가입 flow 제공
-- iOS 알림허용 개선 실험 기획 및 개발
+- 서버스크래핑 기반 **건강검진** 회원가입 flow 제공 (뱅샐인증서 연동)
+- 보험청구 MVP(놓친 보험금 찾기) 카메라 권한·WNI 처리
+- 알림허용 개선 실험 기획 및 개발
 - 건강 - 습관 feature 개발
 - `ARKit`, `CoreMotion` API 를 활용한 활짝웃기 습관 ideation 및 프로젝트 빌드업 & 개발, 배포([바이럴링크](https://m.blog.naver.com/rosus3521/222654069308))
 - `HealthKit` API를 활용한 걸음수, 걸은거리, 수면, 키, 체중, 혈압, 혈당 등 iOS 건강앱 API Service 구조 구축
@@ -50,11 +74,12 @@
 - 자산홈 알림배너 서버화 작업 개발참여
 - 뱅크샐러드 유튜브 컨텐츠 제작참여
 
-[![유전자컨텐츠1](https://i.ytimg.com/vi/lRr7OWIC4AE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUTrtg_d6Q_1uRPQMmLwZD0oGkyw)](https://www.youtube.com/watch?v=lRr7OWIC4AE&t)
 
-[![유전자컨텐츠2](https://i.ytimg.com/vi/Upkfx4IiG5Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAKe0jkE_A_sfzEh9rwF7QHsunJQ)](https://www.youtube.com/watch?v=Upkfx4IiG5Q&t)
+[![유전자컨텐츠1](https://camo.githubusercontent.com/242953d66a035f38303fa932d681e360242a5e16f08846d0eabf4535e27b3021/68747470733a2f2f692e7974696d672e636f6d2f76692f6c5272374f5749433441452f687164656661756c742e6a70673f7371703d2d6f61796d77456a434e4143454c774253467279713471704178554941525541414141414741456c41414449516a3041674b4a446541453d2672733d414f6e34434c4355547274675f6436515f31755250514d6d4c775a44306f476b7977)](https://www.youtube.com/watch?v=lRr7OWIC4AE&t)
 
-[![CTO무물](https://i.ytimg.com/vi/kL2FKnmmMao/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWUFAQIVGkuDbjBTdYUEHHcA4WTw)](https://www.youtube.com/watch?v=kL2FKnmmMao&t)
+[![유전자컨텐츠2](https://camo.githubusercontent.com/6e16d082bb8449480823bab5c610f411a6c80cfd6ec06e33c65100c495bc9d03/68747470733a2f2f692e7974696d672e636f6d2f76692f55706b66783449694735512f687164656661756c742e6a70673f7371703d2d6f61796d77456a434e4143454c774253467279713471704178554941525541414141414741456c41414449516a3041674b4a446541453d2672733d414f6e34434c42414b65306a6b455f415f73667a45683972774637514873756e4a51)](https://www.youtube.com/watch?v=Upkfx4IiG5Q&t)
+
+[![CTO무물](https://camo.githubusercontent.com/5bce350adb81cdb16b21f8e101d8f141cd61894b9f989b76dad4d35c84701616/68747470733a2f2f692e7974696d672e636f6d2f76692f6b4c32464b6e6d6d4d616f2f687164656661756c742e6a70673f7371703d2d6f61796d77456a434e4143454c774253467279713471704178554941525541414141414741456c41414449516a3041674b4a446541453d2672733d414f6e34434c4357554641514956476b7544626a4254645955454848634134575477)](https://www.youtube.com/watch?v=kL2FKnmmMao&t)
 
 ### 뱅크샐러드 송금💰
 
@@ -73,6 +98,7 @@
 - 충전 서비스 개발 및 배포
 - `A/B테스트` 아이디에이션 및 개발
 
+
 ### 뱅크샐러드 iOS Foundation🤝
 
 2020.01 ~ 2021.03
@@ -81,8 +107,6 @@
 - 백로그(사용성이슈) 27개 fix
 - Tech조직 세미나 발표
 
-<br/>
-
 ### 다방 방주인
 
 2019.09 ~ 2019.12
@@ -90,6 +114,7 @@
 개인매물 등록도 이제 `다방 방주인`에서
 
 - `공실등록` `회원가입` `튜토리얼` `공실목록` `공실상세 페이지 UI구성`, `API연동` `데이터 로직 구현` `푸쉬로직 구성` `외부링크 및 앱스키마 작업`등 전체 작업을 오너십을 가지고 진행하였고 성공적으로 배포
+
 
 ### 다방
 
@@ -102,8 +127,6 @@
 - 단지상세, 매물상세 리뉴얼
 - 카카오뱅크 전세대출 로직 구성
 - 메모리누수 이슈 해결 및 앱 안정화
-
-<br/>
 
 ### 플랫폼 로캣티어
 
